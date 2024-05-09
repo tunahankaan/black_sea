@@ -10,8 +10,8 @@ MACD : Genellikle bir varlığın fiyat trendinin yönü ve momentumu hakkında 
 RSI : RSI değeri, sonuçta bir 0 ila 100 arasında bir sayıya eşittir. 70 ve üzeri RSI değerleri, aşırı alım koşullarını gösterirken, 30 ve altı RSI değerleri aşırı satım koşullarını işaret eder.
 VWMA : piyasa yönünü ölçmek için hem fiyatı hem de hacmi kullanan bir göstergedir. Yalnızca fiyat hareketliliğine bakmaz hacim verilerini de hesaba katar.
 # Bölümler
-Veri Ön İşleme
-Veri Görselleştirme
-Teknik Analiz İndikatörleri
-Optimum al/sat percentile işlemleri
-Tarih ve fiyata göre al/sat sinyali
+1.Veri Ön İşleme
+2.Veri Görselleştirme
+3.Teknik Analiz İndikatörleri
+4.Optimum al/sat percentile işlemleri
+5.Tarih ve fiyata göre al/sat sinyali
