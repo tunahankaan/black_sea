@@ -2,7 +2,7 @@
 ## Problem
 Hisselerin fiyat verilerine dayanarak al/sat ne zaman yapılması ile ilgili teknikler
 ## Veri Kümesi
-Veriler yahoofinance'den 2017 yılından itibaren alınarak genel gidişata bakılmış 2020 yılından itibaren al/sat oluşturulmaya çalışılmıştır.
+Veriler yahoofinance'den 2017 yılından itibaren alınarak genel gidişata bakılmış 2020 yılından itibaren al/sat oluşturulmaya çalışılmıştır. Sadece kapanış verileri ile çalışılmıştır.
 ## Teknik Analiz İndikatörleri
 - Moving Average : Fiyatların hareketli ortalamanın altına inmesi SAT sinyali verirken, fiyatların hareketli ortalamanın üzerine çıkması ise AL sinyali vermektedir.
 - Bollinger Bound: Bir yatırım enstrümanının aşırı alım veya satım bölgesinde olduğunu gösterir. Varlığın fiyatı üst banda doğru hareket ettiğinde, bu genellikle aşırı alım olduğunu; fiyat alt banda doğru hareket ettiğinde, bu genellikle aşırı satış olduğunu gösterir. 
